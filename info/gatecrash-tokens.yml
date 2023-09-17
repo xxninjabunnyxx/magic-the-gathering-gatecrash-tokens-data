@@ -1,0 +1,18 @@
+---
+object: set
+id: 4a5fbb89-2871-4c06-9b55-0a7911857118
+code: tgtc
+name: Gatecrash Tokens
+uri: https://api.scryfall.com/sets/4a5fbb89-2871-4c06-9b55-0a7911857118
+scryfall_uri: https://scryfall.com/sets/tgtc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atgtc&unique=prints
+released_at: '2013-02-01'
+set_type: token
+card_count: 8
+parent_set_code: gtc
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: rtr
+block: Return to Ravnica
+icon_svg_uri: https://svgs.scryfall.io/sets/gtc.svg?1694404800
